@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T16:33:19.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" version="14.8.6" etag="bIgySjB9YZ7YWO8IMbR2" type="github"><diagram id="5p3MqOAw0VDjhKaiCpDj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-16T16:42:52.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="3NugfvG4PgCqtvk0EatL" version="14.8.6" type="github">
+  <diagram id="5p3MqOAw0VDjhKaiCpDj" name="第 1 页">
+    <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iEY74u9awZ5PSIQi64b0-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEY74u9awZ5PSIQi64b0-1" target="iEY74u9awZ5PSIQi64b0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-1" value="A.java&lt;br&gt;B.class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEY74u9awZ5PSIQi64b0-2" target="iEY74u9awZ5PSIQi64b0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEY74u9awZ5PSIQi64b0-2" target="iEY74u9awZ5PSIQi64b0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-2" value="jar包&lt;br&gt;java A.class&lt;br&gt;main()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-4" value="编译打包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="iEY74u9awZ5PSIQi64b0-5" target="iEY74u9awZ5PSIQi64b0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-5" value="B.class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-7" value="使用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-8" value="JVM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="270" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEY74u9awZ5PSIQi64b0-9" target="iEY74u9awZ5PSIQi64b0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-9" value="验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEY74u9awZ5PSIQi64b0-10" target="iEY74u9awZ5PSIQi64b0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-10" value="准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEY74u9awZ5PSIQi64b0-11" target="iEY74u9awZ5PSIQi64b0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-11" value="解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEY74u9awZ5PSIQi64b0-12" target="iEY74u9awZ5PSIQi64b0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-12" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-20" value="加载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-23" value="加载" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-26" value="&lt;div&gt;&lt;ul style=&quot;margin: 0px&quot;&gt;&lt;li style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left ; list-style-position: inside ; word-break: break-word ; background-color: rgba(0 , 0 , 0 , 0) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; list-style-type: disc&quot;&gt;加载：在硬盘上查找并通过IO读入字节码文件，使用到类时才会加载，例如调用类的main()方法，new对象等等，在加载阶段会在内存中生成一个&lt;span style=&quot;font-weight: bold&quot;&gt;代表这个类的java.lang.Class对象&lt;/span&gt;，作为方法区这个类的各种数据的访问入口&lt;/li&gt;&lt;li style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left ; list-style-position: inside ; word-break: break-word ; background-color: rgba(0 , 0 , 0 , 0) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; list-style-type: disc&quot;&gt;验证：校验字节码文件的正确性&lt;/li&gt;&lt;li style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left ; list-style-position: inside ; word-break: break-word ; background-color: rgba(0 , 0 , 0 , 0) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; list-style-type: disc&quot;&gt;准备：给类的静态变量分配内存，并赋予默认值&lt;/li&gt;&lt;li style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left ; list-style-position: inside ; word-break: break-word ; background-color: rgba(0 , 0 , 0 , 0) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; list-style-type: disc&quot;&gt;解析：将&lt;span style=&quot;font-weight: bold&quot;&gt;符号引用&lt;/span&gt;替换为直接引用，该阶段会把一些静态方法(符号引用，比如main()方法)替换为指向数据所存内存的指针或句柄等(直接引用)，这是所谓的&lt;span style=&quot;font-weight: bold&quot;&gt;静态链接&lt;/span&gt;过程(类加载期间完成)，&lt;span style=&quot;font-weight: bold&quot;&gt;动态链接&lt;/span&gt;是在程序运行期间完成的将符号引用替换为直接引用，下节课会讲到动态链接&lt;/li&gt;&lt;li style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left ; list-style-position: inside ; word-break: break-word ; background-color: rgba(0 , 0 , 0 , 0) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;stxihei&amp;#34; ; list-style-type: disc&quot;&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;初始化&lt;/span&gt;：对类的静态变量初始化为指定的值，执行静态代码块&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="490" width="770" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-27" value="&lt;div style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left&quot;&gt;类被加载到方法区中后主要包含&lt;span style=&quot;font-weight: bold&quot;&gt; 运行时常量池、类型信息、字段信息、方法信息、类加载器的引用、对应class实例的引用&lt;/span&gt;等信息。&lt;/div&gt;&lt;div style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left&quot;&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;类加载器的引用&lt;/span&gt;：这个类到类加载器实例的引用&lt;/div&gt;&lt;div style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left&quot;&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;对应class实例的引用&lt;/span&gt;：类加载器在加载类信息放到方法区中后，会创建一个对应的Class 类型的对象实例放到堆(Heap)中, 作为开发人员访问方法区中类定义的入口和切入点。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="740" width="860" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iEY74u9awZ5PSIQi64b0-28" value="&lt;div style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left&quot;&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;注意，&lt;/span&gt;主类在运行过程中如果使用到其它类，会逐步加载这些类。&lt;/div&gt;&lt;div style=&quot;line-height: 1.75 ; font-size: 14px ; text-align: left&quot;&gt;jar包或war包里的类不是一次性全部加载的，是使用到时才加载。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="180" width="150" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
